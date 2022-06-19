@@ -1,0 +1,4 @@
+Make changes to index.html
+git add .
+git commit "comment"
+git push origin master
