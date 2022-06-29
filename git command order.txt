@@ -1,4 +1,7 @@
 Make changes to index.html
+
 git add .
-git commit "comment"
+git commit -m "comment" \\-m is the comment tag, doing this prevents the window popup
 git push origin master
+
+wait ~10 minutes and check site
